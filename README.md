@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Awasthi
 
-<!--
-**its-shivam-awasthi/its-shivam-awasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Senior Executive | Automation Enthusiast**  
+💻 I build intelligent tools in Excel, Access & SQL  
+📚 Currently learning TypeScript & Office Scripts  
+📊 Passionate about data, productivity, and clean code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Work With
+- **VBA** (Excel & Access)
+- **SQL** (Intermediate to Advanced)
+- **Office Scripts & TypeScript** (Learning)
+- **MS Access Forms**
+- **Outlook Integration**
+- **Web Scraping**
+
+---
+
+## 📂 Featured Projects
+- 🧾 **Invoice Entry System** in MS Access
+- 📄 **PDF to Word Automation** with date replacement & progress tracking with Custom Progress Bar
+- 📊 **Workload Tracker** in MS Access
+- 🧠 **Advanced Array Class** with SumIfs, FilterIfs, GroupBy, etc in MS Excel VBA..
+
+---
+
+## 📫 Connect with Me
+linkedin.com/in/its-shivam-awasthi
